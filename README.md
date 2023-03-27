@@ -19,12 +19,12 @@ To use this config for Neovim, use the following command:
 
 ```bash
 mkdir -p ~/.config/nvim && cd ~/.config/nvim
-git clone https://github.com/jdhao/minimal_vim.git .
+git clone https://github.com/schwartx/minimal_vim.git .
 ```
 
 ## For Vim
 
 ```bash
 mkdir -p ~/.vim && cd ~/.vim
-git clone https://github.com/jdhao/minimal_vim.git .
+git clone https://github.com/schwartx/minimal_vim.git .
 ```
